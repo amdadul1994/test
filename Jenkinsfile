@@ -10,6 +10,6 @@ stage'package'
 sh "echo package"
 stage 'deploy'
 sh "echo deploy"
-stage'executeansible"
+stage'executeansible'
 sh "echo ansible"
 }
